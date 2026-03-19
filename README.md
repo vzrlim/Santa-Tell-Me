@@ -168,7 +168,7 @@ Chalkboard shows the letter pattern for the player's locked keyword.
 ---
 
 ### Phase 5 — Ending Vignettes (The Cost)
-After successfully passing a Wit Route riddle session, the **结算画面 (tally screen)** appears. A degrading 1950s family portrait is displayed.
+After successfully passing a Wit Route riddle session, the **tally screen** appears. A degrading 1950s family portrait is displayed.
 
 #### 1st Escape — Loss of Sight
 **Photo (`family_loop1.png`):** MC standing between Mom and Dad. MC's eyes have been violently scribbled out with thick red ballpoint pen marks.
